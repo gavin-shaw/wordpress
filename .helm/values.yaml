@@ -1,0 +1,4 @@
+wordpress:
+  ingress: 
+    enabled: true
+    tls: true
